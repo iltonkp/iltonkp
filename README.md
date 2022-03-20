@@ -51,5 +51,5 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iltonkp&how_icons=true&theme=dracula)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iltonkp&layout=compact&theme=dracula)](https://github.com/iltonkp/github-readme-stats)
 
- ![Snake animation](https://github.com/iltonkp/intonkp/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/iltonkp/iltonkp/blob/output/github-contribution-grid-snake.svg)
 
