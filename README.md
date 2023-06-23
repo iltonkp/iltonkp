@@ -5,7 +5,7 @@
 ## I'm a Full Stack Developer
 
 - 🏠 I am from Brazil, currently living in Portugal.
-- 📚 I am currently learning more about backend development with Kotlin and forntend development with React JS.
+- 📚 I am currently learning more about backend development with Kotlin and frontend development with React JS.
 
 ## 😁 Contact with me
 
