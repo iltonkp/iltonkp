@@ -46,13 +46,6 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 
-## 🧑🏼‍💻 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/iltonkp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iltonkp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltonkp&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- ![Snake animation](https://github.com/iltonkp/iltonkp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iltonkp/iltonkp/blob/output/github-contribution-grid-snake.svg)
 
